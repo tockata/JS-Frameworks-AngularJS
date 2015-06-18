@@ -1,0 +1,27 @@
+.video-container {
+    width: 500px;
+    border: 1px solid green;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+img {
+	width: 200px;
+	height: 200px;
+    float: right;
+}
+
+#new-video {
+    width: 500px;
+}
+
+#new-video input {
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+input.ng-invalid.ng-dirty {
+    background-color: #e4b9c0;
+}
+
